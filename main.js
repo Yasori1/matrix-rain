@@ -1,5 +1,5 @@
 function randomText(){
-    var text = ("!@#$%^*()123456789qwertyuıopğü,işlkjhgfdsazxcvbnmöç.<")
+    var text = ("ごめんなさい。")
     letters =text[Math.floor(Math.random() * text.length)];
     return letters;
 }
